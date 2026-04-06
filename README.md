@@ -29,29 +29,41 @@ A clear, professional, and empathetic response that:
 ## Notes
 This workflow is inspired by real-world AI customer service systems and focuses on improving both efficiency and user experience.
 
+
 ## How to Run
 
 1. Install the required package:
 ```bash
 pip install google-genai
+````
 
 2. Set your Gemini API key:
 
 Mac / Linux:
+
 ```bash
 export GEMINI_API_KEY="your_api_key_here"
+```
 
 Windows (PowerShell):
-```PowerShell
+
+```powershell
 $env:GEMINI_API_KEY="your_api_key_here"
+```
 
 3. Run the application:
+
 ```bash
 python app.py
+```
 
 4. Enter a customer message when prompted.
 
 The program will:
-- generate a customer support response
-- print the result in the terminal
-- save the output to output.txt
+
+* generate a customer support response
+* print the result in the terminal
+* save the output to `output.txt`
+
+```
+```
