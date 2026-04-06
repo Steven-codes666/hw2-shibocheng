@@ -70,3 +70,4 @@ I added constraints to improve reliability and reduce hallucination. The prompt 
 ### What improved, stayed the same, or got worse
 
 This version produced more reliable and safer responses across the evaluation set, especially for edge cases and ambiguous inputs. It reduced incorrect assumptions and handled uncertainty better, although some responses became slightly more cautious.
+
