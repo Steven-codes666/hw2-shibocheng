@@ -4,16 +4,27 @@
 Customer Support Response Generation
 
 ## User
-Customer service agents in e-commerce or service platforms
+Customer service agents in e-commerce platforms who handle customer inquiries and complaints.
 
 ## Input
-Customer messages such as complaints, inquiries, or requests (e.g., delayed orders, refund requests)
+Customer messages, including:
+- complaints (e.g., delayed orders)
+- refund requests
+- product issues
+- general inquiries
 
 ## Output
-A professional, polite, and empathetic customer support response that addresses the issue and suggests next steps
+A clear, professional, and empathetic response that:
+- acknowledges the user's issue
+- maintains a polite and calm tone
+- provides a solution or next step
+- avoids making unsupported assumptions
 
 ## Value
-- Improves response speed and efficiency
-- Ensures consistent tone and quality across responses
+- Improves response efficiency by reducing manual writing time
+- Ensures consistent tone and service quality
 - Enhances customer satisfaction through better communication
-- Reduces workload for human agents in repetitive tasks
+- Supports scalable customer service operations
+
+## Notes
+This workflow is inspired by real-world AI customer service systems and focuses on improving both efficiency and user experience.
