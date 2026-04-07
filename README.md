@@ -64,3 +64,7 @@ The program will:
 * generate a customer support response
 * print the result in the terminal
 * save the output to `output.txt`
+
+## Walkthrough Video
+
+https://youtu.be/M9qkSl-eH4g
